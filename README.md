@@ -4,7 +4,13 @@ This is a simple To Do application using CodeIgniter 3.0 and AngularJS.
 
 ##How to install
 
--To be updated-
+These are simple steps for you to start using the script.
+
+1. Clone the repo
+2. Create a database
+3. Update your database config in application/config/database.php
+4. Import ci3_angular_todo.sql into your db.
+5. Done!
 
 ##Tutorials
 
