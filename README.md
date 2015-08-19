@@ -2,6 +2,8 @@
 
 This is a simple To Do application using CodeIgniter 3.0 and AngularJS.
 
+![Release](https://img.shields.io/badge/status-stable-brightgreen.svg "Status badge") ![Release](https://img.shields.io/badge/release-v1.0-orange.svg "Release badge") ![License](https://img.shields.io/badge/license-GPLv3-blue.svg "License badge")
+
 ##How to install
 
 These are simple steps for you to start using the script.
